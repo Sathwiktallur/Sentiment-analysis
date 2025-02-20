@@ -15,9 +15,9 @@ Step 2: Install the requirements file
 pip install -r requirements.txt
 ```
 
-Step 3: Run the app
+Step 3: Run the snt.py
 ```
-flask --app api.py run
+
 ```
 
 Step 4: The app will run on port 5000. 
